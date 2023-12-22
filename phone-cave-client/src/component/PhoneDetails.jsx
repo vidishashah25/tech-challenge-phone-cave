@@ -207,7 +207,7 @@ useEffect(()=>{
                 <div class="mt-6 ">
                 <Link to="/">
                   <button class="w-full px-4 py-2 font-bold text-white bg-blue-400 lg:w-96 hover:bg-blue-500">
-                    Back to catlog
+                    Back to catlogue
                   </button>
                 </Link>
                 </div>

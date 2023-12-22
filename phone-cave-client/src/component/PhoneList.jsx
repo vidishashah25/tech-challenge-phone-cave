@@ -19,7 +19,7 @@ function PhoneList() {
 
   return (
     <div className="m-3 flex justify-items-center flex-col items-center">
-    <h1 className="text-3xl font-bold dark:text-white mb-3">Phone catalog</h1>
+    <h1 className="text-3xl font-bold dark:text-white mb-3">Phone catalogue</h1>
     <div className="m-3 flex justify-items-center flex-row items-center gap-7">
     
     {
